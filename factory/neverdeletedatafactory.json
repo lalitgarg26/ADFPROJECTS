@@ -1,0 +1,15 @@
+{
+	"name": "neverdeletedatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c9d5fd1-88dc-4daa-938f-55353e03c466",
+		"tenantId": "1e552975-f214-453f-8808-8a110ec613ea"
+	}
+}
